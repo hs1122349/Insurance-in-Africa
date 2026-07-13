@@ -1,0 +1,12 @@
+organization,fact,value,source
+FANAF,member companies,203,fanaf.org home page
+FANAF,headquarters city,Dakar Senegal,fanaf.org home page
+CIMA,member states,14,GIIF ACP report and cima-afrique.org
+CIMA,headquarters city,Libreville Gabon,cima-afrique.org contact page
+GIIF,countries with active operations,31,GIIF ACP report page 8
+GIIF,ACP member states among those 31,23,GIIF ACP report page 8
+Africa microinsurance,people covered as of 2011 estimate,44000000,GIIF ACP report page 8
+Africa microinsurance,African countries with microinsurance products,39,GIIF ACP report page 8
+Africa microinsurance,share of continent population covered,4,GIIF ACP report page 8
+GIIF,people directly impacted by index insurance access,5000000,GIIF ACP report cover page
+GIIF,farmers and micro-entrepreneurs helped access credit,1300000,GIIF ACP report foreword

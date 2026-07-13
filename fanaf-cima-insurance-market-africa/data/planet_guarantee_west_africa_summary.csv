@@ -1,0 +1,11 @@
+metric,value,unit
+farmers_insured_total,52228,farmers
+farmers_insured_target,40000,farmers
+new_insurance_products_launched,14,products
+new_index_insurance_products,10,products
+workshops_and_training_sessions,12,events
+sales_seasons_covered,4,seasons
+insurers_using_products,5,companies
+reinsurers_involved,6,companies
+burkina_faso_cotton_farmers_2014,7500,farmers
+credit_increase_insured_vs_uninsured,170,percent
