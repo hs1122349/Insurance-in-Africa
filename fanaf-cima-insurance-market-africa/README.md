@@ -79,16 +79,6 @@ that load through JavaScript. Our fetch tool could not read those
 values, so this repo reports only the one confirmed total, 203 member
 companies, and does not guess at the breakdown.
 
-## AI use disclosure
-
-AI helped build the structure of this repo, including the module
-layout, test scaffolding, and README. The market data, project figures,
-and organization facts come directly from the World Bank GIIF report
-and the two cited websites. Review the source report and sites yourself
-before citing any of these figures elsewhere. This project is a coding
-and reporting exercise, not a market research deliverable, and nothing
-here should stand in for the original report or a professional
-actuarial review.
 
 ## License
 
